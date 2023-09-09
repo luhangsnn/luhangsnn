@@ -1,8 +1,7 @@
 ### 👋 Hi there! 
 - 📍 I'm currently working as a product manager in SF Bay Area 🌁
-- 🔭 I’m currently trying to get back to coding (yes PMs)
+- 🌱 I’m currently trying to get back to coding (yes PMs) and learning about product design
 - 🛠️ I’m currently working on a personal portfolio website
-- 🌱 I'm currently learning about product design 
 
 <!--
 **luhangsnn/luhangsnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
