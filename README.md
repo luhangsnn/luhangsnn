@@ -1,6 +1,7 @@
 ### 👋 Hi there! 
 - 📍 I'm currently working as a product manager in SF Bay Area 🌁
-- 🌱 I’m currently trying to get back to coding (yes PMs) and learning about product design
+- 🤔 I’m currently trying to get back to coding (yes PMs)
+- 🌱 I'm currently learning about Node.js and product design
 - 🛠️ I’m currently working on a personal portfolio website
 
 <!--
